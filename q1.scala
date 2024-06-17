@@ -1,0 +1,1 @@
+def area(r:Int)=Math.PI*Math.pow(r,2);
